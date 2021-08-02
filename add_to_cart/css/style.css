@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.page-link:focus {
+    
+    box-shadow: none;
+}
+
+.pagination li input{
+    width: 69px;
+    text-align: center;
+}
+
+.remove_wish{
+    font-size: 10pt;
+
+}
+
+.strthr{
+    text-decoration: line-through;
+    font-size: 14pt;
+    font-weight: normal;
+}
+
+.exptime{
+    color: blue;
+}
